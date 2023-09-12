@@ -1,3 +1,3 @@
 # practise-git
 
-this is repo is for practise only.
+this is repo for practise only.
